@@ -1,0 +1,8 @@
+@media screen and (min-width:300px) {
+
+    ul,
+    input {
+        display: none;
+    }
+  } 
+
